@@ -3,5 +3,5 @@
     <string name="nombre">Nombre:</string>
     <string name="correo">Correo:</string>
     <string name="edad">Edad:</string>
-    <string name="publicidad">Desea recibir publicidad?</string>
+    <string name="publicidad">Desea recibir publicidad?:</string>
 </resources>
